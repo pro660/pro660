@@ -22,6 +22,16 @@
 </p>
 
 <p align="center">
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pro660)](https://github.com/anuraghazra/github-readme-stats)
-  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  <table>
+    <tr>
+      <td align="center">
+        <h3>📊 Most Used Languages</h3>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro660&layout=compact&theme=radical" alt="Top Languages" />
+      </td>
+      <td align="center">
+        <h3>📈 GitHub Stats</h3>
+        <img src="https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=radical" alt="GitHub Stats" />
+      </td>
+    </tr>
+  </table>
 </p>
