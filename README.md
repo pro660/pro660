@@ -17,6 +17,6 @@
 <h2 align="center">✉️ Contact</h2>
 <p align="center">
   <a href="mailto:gw904202@gmail.com">
-    <img src="https://img.shields.io/badge/-your.email%40example.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+    <img src="https://img.shields.io/badge/-gw904202@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
 </p>
