@@ -25,8 +25,10 @@
   <table>
     <tr>
       <td align="center">
-        <h3>📊 Most Used Languages</h3>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro660&layout=compact&theme=radical" alt="Top Languages" />
+        <h3>🏆 BOJ Tier</h3>
+        <a href="https://solved.ac/gudtjr1017/">
+          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudtjr1017" alt="Solved.ac Profile" />
+        </a>
       </td>
       <td align="center">
         <h3>📈 GitHub Stats</h3>
