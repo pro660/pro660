@@ -26,12 +26,3 @@
     <img src="https://img.shields.io/badge/-gw904202@gmail.com-c14438?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
-
-      </td>
-      <td align="center">
-        <h3>📈 GitHub Stats</h3>
-        <img src="https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=radical" alt="GitHub Stats" />
-      </td>
-    </tr>
-  </table>
-</p>
