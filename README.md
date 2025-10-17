@@ -27,14 +27,6 @@
   </a>
 </p>
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h3>🏆 BOJ Tier</h3>
-        <a href="https://solved.ac/gudtjr1017/">
-          <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=gudtjr1017" alt="Solved.ac Profile" />
-        </a>
       </td>
       <td align="center">
         <h3>📈 GitHub Stats</h3>
