@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="[https://github-readme-stats.vercel.app/api?username=pro66](https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=dark)" alt="GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=dark" alt="GitHub stats" />
   </a>
 </p>
 
