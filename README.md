@@ -32,11 +32,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
-
-<p align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=gw904202@gmail.com&show_icons=true&theme=dark&count_private=true&include_all_commits=true" 
-    alt="GitHub stats" 
-    />
-</p>
-
