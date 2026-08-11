@@ -42,7 +42,8 @@
 </p>
 
 <div align="center">
-  <h1>              </h1>
+  [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pro660&layout=compact&theme=transparent&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
   <img src="https://streak-stats.demolab.com?user=pro660&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
 </div>
 
