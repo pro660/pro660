@@ -40,22 +40,7 @@
 
 <h2 align="center">📊 GitHub Stats</h2>
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api?username=pro660&show_icons=true&theme=transparent&hide_border=true"
-      height="165"
-      alt="GitHub Stats"
-    />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro660&layout=compact&theme=transparent&hide_border=true"
-      height="165"
-      alt="Top Languages"
-    />
-  </a>
-</p>
+
 
 <p align="center">
   <img
