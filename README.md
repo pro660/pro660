@@ -64,7 +64,7 @@
 | 프로젝트 · 개발 기록 | 서비스 소개 | 링크 |
 | :--- | :--- | :---: |
 | **올담(alldam)**<br />2026.05–07 | 충남 지역 시설을 지도에서 찾는 공공데이터 프로젝트입니다. 서산·당진·홍성·예산의 터미널 위치와 주소를 지역별로 확인할 수 있습니다. | <a href="https://github.com/pro660/alldam"><img src="assets/profile/repo-link.svg" alt="올담 저장소 열기" /></a> |
-| **너랑나랑(UandMe)**<br />2025.09 | 성향 질문을 바탕으로 프로필을 만들고, 상대에게 호감을 표시하거나 채팅할 수 있는 매칭 웹앱입니다.<br/>1300명의 사용자를 확보했었습니다. | <a href="https://github.com/pro660/UandMe"><img src="assets/profile/repo-link.svg" alt="너랑나랑 저장소 열기" /></a> |
+| **너랑나랑(UandMe)**<br />2025.09 | 성향 질문을 바탕으로 프로필을 만들고, 상대에게 호감을 표시하거나 채팅할 수 있는 매칭 웹앱입니다. 1300명의 사용자를 확보했었습니다. | <a href="https://github.com/pro660/UandMe"><img src="assets/profile/repo-link.svg" alt="너랑나랑 저장소 열기" /></a> |
 | **담다(DAMDA)**<br />2025.07 · 멋사 미니해커톤 | 여행지를 탐색하고 여행 기록을 작성하는 React 웹 프로토타입입니다.<br/>첫 정규 프로젝트 진행이었습니다. | <a href="https://github.com/pro660/Likelion_Minihackathon"><img src="assets/profile/repo-link.svg" alt="담다 저장소 열기" /></a> |
 
 </details>
