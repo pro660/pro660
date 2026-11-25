@@ -44,7 +44,7 @@
 ## 프로젝트 소개
 
 <p align="center">
-  <a href="https://github.com/pro660/KSPO"><img src="assets/profile/cheche.png" width="356" alt="CheChe · 공공체육시설 예약 · GitHub 저장소" /></a>
+  <a href="https://github.com/pro660/KSPO"><img src="assets/profile/cheche.png" width="600" alt="CheChe · 공공체육시설 예약 · GitHub 저장소" /></a>
   <a href="https://github.com/pro660/Hackathon_FE"><img src="assets/profile/wear.png" width="356" alt="입을래? · 패션 아이템 추천 · GitHub 저장소" /></a>
   <br />
   <a href="https://github.com/pro660/CAM-PL-FE"><img src="assets/profile/cam.png" width="356" alt="CAM-PL · 캠퍼스 시간표와 지도 · GitHub 저장소" /></a>
